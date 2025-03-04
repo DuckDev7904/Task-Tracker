@@ -1,4 +1,4 @@
-Project URL: `https://github.com/DuckDev7904/Task-Tracker`
+Project URL: `[https://github.com/DuckDev7904/Task-Tracker](https://roadmap.sh/projects/task-tracker)`
 Example
 The list of commands and their usage is given below:
 
